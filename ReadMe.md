@@ -4,12 +4,12 @@
 Overview
 ========
 This is a collection of code samples displaying various multhreading oriented issues.
-Those are the bases for issue analysis exercices
+Those are the bases for issue analysis exercices. See http://dupdob.wordpress.com for more info
 
 
 Technical environement
 ======================
-*Tools:
+* Tools:
 * Visual Studio 2012
 * Resharper
 
