@@ -18,6 +18,8 @@
 
 namespace SandBox
 {
+    using SandBox.Test4;
+
     internal static class Program
     {
         /// <summary>
@@ -25,7 +27,7 @@ namespace SandBox
         /// </summary>
         private static void Main()
         {
-            var tester = new CYSDL4();
+            var tester = new Solution();
             
             tester.Entry();
         }

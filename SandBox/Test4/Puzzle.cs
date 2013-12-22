@@ -1,5 +1,5 @@
 ﻿//  --------------------------------------------------------------------------------------------------------------------
-// <copyright file="CYSDL4.cs" company="Cyrille DUPUYDAUBY">
+// <copyright file="Puzzle.cs" company="Cyrille DUPUYDAUBY">
 //   Copyright 2013 Cyrille DUPUYDAUBY
 //   Licensed under the Apache License, Version 2.0 (the "License");
 //   you may not use this file except in compliance with the License.
@@ -12,7 +12,7 @@
 //   limitations under the License.
 // </copyright>
 //  --------------------------------------------------------------------------------------------------------------------
-namespace SandBox
+namespace SandBox.Test4
 {
     using System;
     using System.Threading;
@@ -20,7 +20,9 @@ namespace SandBox
     /// <summary>
     /// Can you spot the deadlock, episode 4.
     /// </summary>
-    public class CYSDL4
+    /// <remarks>
+    /// </remarks>
+    public class Puzzle : IPuzzle
     {
         /// <summary>
         /// Entry point for the test.
